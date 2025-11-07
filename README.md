@@ -1,6 +1,8 @@
 ```markdown name=README.md
 # Weather App
 
+LINK: simpleqrcodegenerator1.netlify.app
+
 This repository contains the source code for a Weather App project. The application provides current weather information and forecasts for specified locations, leveraging weather APIs and modern UI components.
 
 ## Features
